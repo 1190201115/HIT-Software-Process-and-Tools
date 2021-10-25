@@ -1,3 +1,4 @@
+#sourse code of lab1
 import random
 import sys
 from tkinter import *
